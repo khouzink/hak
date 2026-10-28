@@ -1,0 +1,30 @@
+services:
+  app:
+    build: .
+    ports:
+      - "${OSTROVOK_BIND_IP:-127.0.0.1}:${OSTROVOK_PORT:-18093}:8080"
+    env_file:
+      - path: .env.example
+      - path: .env
+        required: false
+    environment:
+      DATABASE_PATH: /app/data/uno.sqlite3
+      MCP_REQUIRE_AUTH: "1"
+      SESSION_COOKIE_SECURE: "1"
+    volumes:
+      - ostrovok-data:/app/data
+    restart: unless-stopped
+    mem_limit: 768m
+    cpus: 0.75
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health', timeout=2)"]
+      interval: 20s
+      timeout: 3s
+      retries: 3
+      start_period: 10s
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  ostrovok-data:

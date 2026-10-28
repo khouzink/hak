@@ -1,0 +1,64 @@
+{
+  "protocol": "2025-03-26",
+  "tools": [
+    "nearby_verified_pois",
+    "geocode_city",
+    "discover_hotels",
+    "walking_route"
+  ],
+  "calls": {
+    "geocode_city": {
+      "place": {
+        "id": 491422,
+        "name": "\u0421\u043e\u0447\u0438",
+        "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+        "country_code": "RU",
+        "latitude": 43.59699,
+        "longitude": 39.72477,
+        "timezone": "Europe/Moscow"
+      },
+      "source": "Open-Meteo geocoding"
+    },
+    "walking_route": {
+      "available": true,
+      "distance_m": 632.9,
+      "duration_s": 506.3,
+      "source": "OSRM foot / OpenStreetMap",
+      "source_url": "https://routing.openstreetmap.de/routed-foot",
+      "retrieved_at": "2026-10-26T10:10:02.421871+00:00",
+      "attribution": "\u00a9 OpenStreetMap contributors, ODbL; routing OSRM foot / OpenStreetMap",
+      "is_estimate": true,
+      "cache_hit": true,
+      "limitations": "Walking estimate; stairs, accessibility, closures and safety are not guaranteed."
+    },
+    "nearby_verified_pois": {
+      "hotel_id": "mercure-sochi",
+      "routes": [
+        {
+          "hotel_id": "mercure-sochi",
+          "poi_id": "node/9022304895",
+          "poi_name": "\u0417\u0430\u043b \u043e\u0440\u0433\u0430\u043d\u043d\u043e\u0439 \u0438 \u043a\u0430\u043c\u0435\u0440\u043d\u043e\u0439 \u043c\u0443\u0437\u044b\u043a\u0438",
+          "category": "theatre",
+          "distance_m": 347.1,
+          "duration_s": 277.9,
+          "verified": true,
+          "source": "OSRM foot / OpenStreetMap",
+          "retrieved_at": "2026-10-26T10:06:33.632203+00:00"
+        },
+        {
+          "hotel_id": "mercure-sochi",
+          "poi_id": "way/51343707",
+          "poi_name": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c\u043d\u044b\u0439",
+          "category": "theatre",
+          "distance_m": 376.7,
+          "duration_s": 301.6,
+          "verified": true,
+          "source": "OSRM foot / OpenStreetMap",
+          "retrieved_at": "2026-10-26T10:06:37.225187+00:00"
+        }
+      ],
+      "verified": true,
+      "source": "OpenStreetMap + OSRM foot"
+    }
+  }
+}

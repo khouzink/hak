@@ -1,0 +1,27 @@
+services:
+  app:
+    environment:
+      LLM_BASE_URL: http://local-ai:8081/v1
+      LLM_API_KEY: local-no-secret
+      LLM_MODEL: uno-local
+      LLM_TIMEOUT: 90
+    depends_on:
+      local-ai:
+        condition: service_started
+  local-ai:
+    image: ghcr.io/ggml-org/llama.cpp:server@sha256:1fa7f8f0ca663fdcf3203dc125a7e0b5c9e49c9ed054b049599666cd7e300eb0
+    command: ["-hf", "Qwen/Qwen2.5-1.5B-Instruct-GGUF:Q4_K_M", "--host", "0.0.0.0", "--port", "8081", "-c", "4096", "-np", "1", "-t", "4", "-n", "768", "--alias", "uno-local"]
+    environment:
+      LLAMA_CACHE: /models
+    volumes:
+      - model-cache:/models
+    ports:
+      - "127.0.0.1:8091:8081"
+    mem_limit: 3g
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+volumes:
+  model-cache:

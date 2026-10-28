@@ -1,0 +1,205 @@
+{
+  "status": "verified",
+  "region": "Central Sochi POIs / three mapped hotels",
+  "calculated_at": "2026-10-26T10:06:42.703449+00:00",
+  "hotels": [
+    {
+      "hotel_id": "sochi-park",
+      "id": "way/277803906",
+      "name": "Сочи Парк Отель",
+      "latitude": 43.40352423492063,
+      "longitude": 39.973997674603176,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:housenumber": "6",
+        "addr:street": "Континентальный проспект",
+        "barrier": "fence",
+        "email": "info@sochipark-hotel.ru",
+        "landuse": "residential",
+        "leisure": "resort",
+        "name": "Сочи Парк Отель",
+        "name:en": "Sochi Park Hotel",
+        "name:tr": "Soçi Park Otel",
+        "old_name": "Azimut Hotel Sochi 3*",
+        "phone": "+7 906 1574911;+7 967 4423911",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://sochipark-hotel.ru"
+      },
+      "source_url": "https://www.openstreetmap.org/way/277803906",
+      "elevation_m": 2.0
+    },
+    {
+      "hotel_id": "mercure-sochi",
+      "id": "way/201474331",
+      "name": "Mercure Sochi Centre",
+      "latitude": 43.57768273333333,
+      "longitude": 39.724371338888886,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:country": "RU",
+        "addr:housenumber": "11А к1",
+        "addr:postcode": "354000",
+        "addr:street": "улица Орджоникидзе",
+        "brand": "Mercure",
+        "brand:wikidata": "Q1709809",
+        "building": "hotel",
+        "building:levels": "16",
+        "internet_access": "wlan",
+        "name": "Mercure Sochi Centre",
+        "operator": "Mercure",
+        "stars": "4",
+        "start_date": "2013",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "source_url": "https://www.openstreetmap.org/way/201474331",
+      "elevation_m": 30.0
+    },
+    {
+      "hotel_id": "azimut-vinogradnaya",
+      "id": "way/51764141",
+      "name": "Azimut Парк Отель Виноградная",
+      "latitude": 43.613006275000004,
+      "longitude": 39.718128916666664,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:housenumber": "101/1",
+        "addr:street": "Виноградная улица",
+        "brand": "Azimut",
+        "brand:wikidata": "Q4033119",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Azimut Парк Отель Виноградная",
+        "old_name:en": "Neva International Pension",
+        "phone": "+7 (862) 555-14-61",
+        "tourism": "hotel",
+        "website": "https://azimuthotels.com/ru/sochi/azimut-hotel-vinogradnaya-sochi"
+      },
+      "source_url": "https://www.openstreetmap.org/way/51764141",
+      "elevation_m": 85.0
+    }
+  ],
+  "places": [
+    {
+      "id": "node/4474634991",
+      "name": "Арт-галерея \"Форт\"",
+      "category": "museum",
+      "latitude": 43.579756,
+      "longitude": 39.7217782,
+      "source_url": "https://www.openstreetmap.org/node/4474634991"
+    },
+    {
+      "id": "node/9022304895",
+      "name": "Зал органной и камерной музыки",
+      "category": "theatre",
+      "latitude": 43.579636,
+      "longitude": 39.7256626,
+      "source_url": "https://www.openstreetmap.org/node/9022304895"
+    },
+    {
+      "id": "node/13962003301",
+      "name": "Мега музей СССР",
+      "category": "museum",
+      "latitude": 43.5866219,
+      "longitude": 39.7227837,
+      "source_url": "https://www.openstreetmap.org/node/13962003301"
+    },
+    {
+      "id": "way/51149786",
+      "name": "Музей спортивной славы Сочи",
+      "category": "museum",
+      "latitude": 43.58611537142857,
+      "longitude": 39.72292778571428,
+      "source_url": "https://www.openstreetmap.org/way/51149786"
+    },
+    {
+      "id": "way/51343707",
+      "name": "Фестивальный",
+      "category": "theatre",
+      "latitude": 43.5786614,
+      "longitude": 39.721500105882356,
+      "source_url": "https://www.openstreetmap.org/way/51343707"
+    },
+    {
+      "id": "way/51416885",
+      "name": "Художественный музей",
+      "category": "museum",
+      "latitude": 43.57629473181818,
+      "longitude": 39.72835974090909,
+      "source_url": "https://www.openstreetmap.org/way/51416885"
+    }
+  ],
+  "routes": [
+    {
+      "hotel_id": "sochi-park",
+      "poi_id": "way/51416885",
+      "poi_name": "Художественный музей",
+      "category": "museum",
+      "distance_m": 33921.6,
+      "duration_s": 27135.7,
+      "verified": true,
+      "source": "OSRM foot / OpenStreetMap",
+      "retrieved_at": "2026-10-26T10:06:28.417208+00:00"
+    },
+    {
+      "hotel_id": "sochi-park",
+      "poi_id": "node/9022304895",
+      "poi_name": "Зал органной и камерной музыки",
+      "category": "theatre",
+      "distance_m": 34261.7,
+      "duration_s": 27407.8,
+      "verified": true,
+      "source": "OSRM foot / OpenStreetMap",
+      "retrieved_at": "2026-10-26T10:06:31.156193+00:00"
+    },
+    {
+      "hotel_id": "mercure-sochi",
+      "poi_id": "node/9022304895",
+      "poi_name": "Зал органной и камерной музыки",
+      "category": "theatre",
+      "distance_m": 347.1,
+      "duration_s": 277.9,
+      "verified": true,
+      "source": "OSRM foot / OpenStreetMap",
+      "retrieved_at": "2026-10-26T10:06:33.632203+00:00"
+    },
+    {
+      "hotel_id": "mercure-sochi",
+      "poi_id": "way/51343707",
+      "poi_name": "Фестивальный",
+      "category": "theatre",
+      "distance_m": 376.7,
+      "duration_s": 301.6,
+      "verified": true,
+      "source": "OSRM foot / OpenStreetMap",
+      "retrieved_at": "2026-10-26T10:06:37.225187+00:00"
+    },
+    {
+      "hotel_id": "azimut-vinogradnaya",
+      "poi_id": "node/13962003301",
+      "poi_name": "Мега музей СССР",
+      "category": "museum",
+      "distance_m": 3861.7,
+      "duration_s": 3089.2,
+      "verified": true,
+      "source": "OSRM foot / OpenStreetMap",
+      "retrieved_at": "2026-10-26T10:06:39.898278+00:00"
+    },
+    {
+      "hotel_id": "azimut-vinogradnaya",
+      "poi_id": "way/51149786",
+      "poi_name": "Музей спортивной славы Сочи",
+      "category": "museum",
+      "distance_m": 3901.3,
+      "duration_s": 3120.7,
+      "verified": true,
+      "source": "OSRM foot / OpenStreetMap",
+      "retrieved_at": "2026-10-26T10:06:42.643845+00:00"
+    }
+  ],
+  "source": "OpenStreetMap + OSRM foot",
+  "source_url": "https://api.openstreetmap.org/api/0.6/map?bbox=39.718,43.567,39.733,43.588",
+  "attribution": "© OpenStreetMap contributors, ODbL; FOSSGIS OSRM",
+  "limitations": "Small demo sample, not exhaustive. Routing estimates do not certify accessibility or current closures."
+}

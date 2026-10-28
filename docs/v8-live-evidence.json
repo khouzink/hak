@@ -1,0 +1,68 @@
+{
+  "context": {
+    "status": 200,
+    "data": {
+      "place": {
+        "id": 491422,
+        "name": "Сочи",
+        "country": "Россия",
+        "country_code": "RU",
+        "latitude": 43.59699,
+        "longitude": 39.72477,
+        "timezone": "Europe/Moscow"
+      },
+      "forecast": {
+        "available": true,
+        "days": [
+          {
+            "time": "2026-11-02",
+            "temperature_2m_max": 22.6,
+            "temperature_2m_min": 13.1,
+            "precipitation_probability_max": 55
+          },
+          {
+            "time": "2026-11-03",
+            "temperature_2m_max": 21.6,
+            "temperature_2m_min": 11.8,
+            "precipitation_probability_max": 47
+          },
+          {
+            "time": "2026-11-04",
+            "temperature_2m_max": 18.2,
+            "temperature_2m_min": 11.8,
+            "precipitation_probability_max": 62
+          },
+          {
+            "time": "2026-11-05",
+            "temperature_2m_max": 15.5,
+            "temperature_2m_min": 11.9,
+            "precipitation_probability_max": 77
+          }
+        ],
+        "source": "Open-Meteo",
+        "source_url": "https://open-meteo.com/",
+        "retrieved_at": "2026-10-26T15:06:19.990080+00:00"
+      }
+    }
+  },
+  "walking": {
+    "status": 200,
+    "data": {
+      "available": true,
+      "distance_m": 2726.6,
+      "duration_s": 1963.1,
+      "source": "openrouteservice foot-walking",
+      "source_url": "https://api.openrouteservice.org",
+      "retrieved_at": "2026-10-26T15:06:22.499789+00:00",
+      "attribution": "© OpenStreetMap contributors, ODbL; routing openrouteservice foot-walking",
+      "is_estimate": true,
+      "cache_hit": false,
+      "limitations": "Walking estimate; stairs, accessibility, closures and safety are not guaranteed.",
+      "destination": "Географическая точка города из GeoNames; не вход в конкретную достопримечательность",
+      "destination_coordinates": [
+        39.72477,
+        43.59699
+      ]
+    }
+  }
+}

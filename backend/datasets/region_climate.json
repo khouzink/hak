@@ -1,0 +1,1713 @@
+{
+  "source": "https://archive-api.open-meteo.com/v1/archive",
+  "attribution": "Open-Meteo / ERA5, CC BY 4.0",
+  "period": "2016-2025",
+  "kind": "10-year historical average, not forecast or climate normal",
+  "retrieved_at": "2026-10-26T10:53:29.117524+00:00",
+  "regions": {
+    "sochi": [
+      {
+        "month": 1,
+        "day_c": 9.5,
+        "night_c": 3.3,
+        "rain_days": 16.0
+      },
+      {
+        "month": 2,
+        "day_c": 9.8,
+        "night_c": 3.5,
+        "rain_days": 13.5
+      },
+      {
+        "month": 3,
+        "day_c": 12.2,
+        "night_c": 5.3,
+        "rain_days": 15.4
+      },
+      {
+        "month": 4,
+        "day_c": 16.3,
+        "night_c": 8.7,
+        "rain_days": 12.1
+      },
+      {
+        "month": 5,
+        "day_c": 19.9,
+        "night_c": 13.1,
+        "rain_days": 13.9
+      },
+      {
+        "month": 6,
+        "day_c": 24.5,
+        "night_c": 18.2,
+        "rain_days": 13.3
+      },
+      {
+        "month": 7,
+        "day_c": 26.9,
+        "night_c": 20.5,
+        "rain_days": 11.2
+      },
+      {
+        "month": 8,
+        "day_c": 28.2,
+        "night_c": 21.4,
+        "rain_days": 10.2
+      },
+      {
+        "month": 9,
+        "day_c": 24.3,
+        "night_c": 17.4,
+        "rain_days": 11.7
+      },
+      {
+        "month": 10,
+        "day_c": 19.7,
+        "night_c": 12.5,
+        "rain_days": 10.9
+      },
+      {
+        "month": 11,
+        "day_c": 15.7,
+        "night_c": 8.6,
+        "rain_days": 11.5
+      },
+      {
+        "month": 12,
+        "day_c": 11.7,
+        "night_c": 5.4,
+        "rain_days": 15.1
+      }
+    ],
+    "kazan": [
+      {
+        "month": 1,
+        "day_c": -7.5,
+        "night_c": -12.6,
+        "rain_days": 11.5
+      },
+      {
+        "month": 2,
+        "day_c": -6.1,
+        "night_c": -11.2,
+        "rain_days": 11.4
+      },
+      {
+        "month": 3,
+        "day_c": 0.1,
+        "night_c": -6.4,
+        "rain_days": 9.2
+      },
+      {
+        "month": 4,
+        "day_c": 9.9,
+        "night_c": 0.8,
+        "rain_days": 9.4
+      },
+      {
+        "month": 5,
+        "day_c": 17.8,
+        "night_c": 7.8,
+        "rain_days": 9.5
+      },
+      {
+        "month": 6,
+        "day_c": 22.1,
+        "night_c": 13.1,
+        "rain_days": 8.6
+      },
+      {
+        "month": 7,
+        "day_c": 25.3,
+        "night_c": 16.2,
+        "rain_days": 8.3
+      },
+      {
+        "month": 8,
+        "day_c": 24.0,
+        "night_c": 14.8,
+        "rain_days": 7.8
+      },
+      {
+        "month": 9,
+        "day_c": 16.6,
+        "night_c": 8.7,
+        "rain_days": 8.9
+      },
+      {
+        "month": 10,
+        "day_c": 8.8,
+        "night_c": 3.0,
+        "rain_days": 11.4
+      },
+      {
+        "month": 11,
+        "day_c": 0.6,
+        "night_c": -3.6,
+        "rain_days": 10.9
+      },
+      {
+        "month": 12,
+        "day_c": -5.3,
+        "night_c": -10.3,
+        "rain_days": 11.8
+      }
+    ],
+    "petersburg": [
+      {
+        "month": 1,
+        "day_c": -2.8,
+        "night_c": -7.4,
+        "rain_days": 13.6
+      },
+      {
+        "month": 2,
+        "day_c": -2.0,
+        "night_c": -6.8,
+        "rain_days": 11.2
+      },
+      {
+        "month": 3,
+        "day_c": 2.8,
+        "night_c": -4.1,
+        "rain_days": 10.4
+      },
+      {
+        "month": 4,
+        "day_c": 8.8,
+        "night_c": -0.0,
+        "rain_days": 11.7
+      },
+      {
+        "month": 5,
+        "day_c": 15.5,
+        "night_c": 6.0,
+        "rain_days": 10.2
+      },
+      {
+        "month": 6,
+        "day_c": 20.8,
+        "night_c": 12.1,
+        "rain_days": 11.9
+      },
+      {
+        "month": 7,
+        "day_c": 22.5,
+        "night_c": 14.5,
+        "rain_days": 16.0
+      },
+      {
+        "month": 8,
+        "day_c": 21.0,
+        "night_c": 13.3,
+        "rain_days": 13.7
+      },
+      {
+        "month": 9,
+        "day_c": 16.2,
+        "night_c": 9.4,
+        "rain_days": 11.1
+      },
+      {
+        "month": 10,
+        "day_c": 8.8,
+        "night_c": 3.8,
+        "rain_days": 12.8
+      },
+      {
+        "month": 11,
+        "day_c": 2.9,
+        "night_c": -0.7,
+        "rain_days": 12.4
+      },
+      {
+        "month": 12,
+        "day_c": -0.7,
+        "night_c": -4.4,
+        "rain_days": 14.5
+      }
+    ],
+    "kaliningrad": [
+      {
+        "month": 1,
+        "day_c": 2.1,
+        "night_c": -2.4,
+        "rain_days": 15.2
+      },
+      {
+        "month": 2,
+        "day_c": 3.6,
+        "night_c": -1.7,
+        "rain_days": 12.1
+      },
+      {
+        "month": 3,
+        "day_c": 7.3,
+        "night_c": -0.1,
+        "rain_days": 10.8
+      },
+      {
+        "month": 4,
+        "day_c": 12.4,
+        "night_c": 3.3,
+        "rain_days": 9.4
+      },
+      {
+        "month": 5,
+        "day_c": 17.5,
+        "night_c": 7.9,
+        "rain_days": 9.8
+      },
+      {
+        "month": 6,
+        "day_c": 22.1,
+        "night_c": 13.1,
+        "rain_days": 11.0
+      },
+      {
+        "month": 7,
+        "day_c": 22.5,
+        "night_c": 15.0,
+        "rain_days": 14.5
+      },
+      {
+        "month": 8,
+        "day_c": 23.0,
+        "night_c": 14.9,
+        "rain_days": 14.3
+      },
+      {
+        "month": 9,
+        "day_c": 19.2,
+        "night_c": 11.7,
+        "rain_days": 10.9
+      },
+      {
+        "month": 10,
+        "day_c": 12.9,
+        "night_c": 7.2,
+        "rain_days": 14.8
+      },
+      {
+        "month": 11,
+        "day_c": 7.0,
+        "night_c": 2.7,
+        "rain_days": 11.4
+      },
+      {
+        "month": 12,
+        "day_c": 3.7,
+        "night_c": -0.1,
+        "rain_days": 14.2
+      }
+    ],
+    "istanbul": [
+      {
+        "month": 1,
+        "day_c": 9.3,
+        "night_c": 3.7,
+        "rain_days": 13.2
+      },
+      {
+        "month": 2,
+        "day_c": 10.4,
+        "night_c": 4.2,
+        "rain_days": 10.5
+      },
+      {
+        "month": 3,
+        "day_c": 12.8,
+        "night_c": 5.4,
+        "rain_days": 11.2
+      },
+      {
+        "month": 4,
+        "day_c": 17.0,
+        "night_c": 8.5,
+        "rain_days": 8.6
+      },
+      {
+        "month": 5,
+        "day_c": 21.3,
+        "night_c": 13.0,
+        "rain_days": 9.0
+      },
+      {
+        "month": 6,
+        "day_c": 26.5,
+        "night_c": 18.2,
+        "rain_days": 7.6
+      },
+      {
+        "month": 7,
+        "day_c": 29.2,
+        "night_c": 20.6,
+        "rain_days": 4.8
+      },
+      {
+        "month": 8,
+        "day_c": 29.2,
+        "night_c": 21.4,
+        "rain_days": 3.4
+      },
+      {
+        "month": 9,
+        "day_c": 25.5,
+        "night_c": 17.9,
+        "rain_days": 7.4
+      },
+      {
+        "month": 10,
+        "day_c": 20.2,
+        "night_c": 13.5,
+        "rain_days": 7.4
+      },
+      {
+        "month": 11,
+        "day_c": 16.2,
+        "night_c": 10.0,
+        "rain_days": 9.1
+      },
+      {
+        "month": 12,
+        "day_c": 11.6,
+        "night_c": 6.3,
+        "rain_days": 13.4
+      }
+    ],
+    "hurghada": [
+      {
+        "month": 1,
+        "day_c": 20.6,
+        "night_c": 13.3,
+        "rain_days": 0.4
+      },
+      {
+        "month": 2,
+        "day_c": 21.3,
+        "night_c": 13.9,
+        "rain_days": 0.5
+      },
+      {
+        "month": 3,
+        "day_c": 24.1,
+        "night_c": 16.4,
+        "rain_days": 0.4
+      },
+      {
+        "month": 4,
+        "day_c": 27.4,
+        "night_c": 19.8,
+        "rain_days": 0.1
+      },
+      {
+        "month": 5,
+        "day_c": 30.8,
+        "night_c": 23.4,
+        "rain_days": 0.1
+      },
+      {
+        "month": 6,
+        "day_c": 33.5,
+        "night_c": 26.5,
+        "rain_days": 0.0
+      },
+      {
+        "month": 7,
+        "day_c": 34.6,
+        "night_c": 28.1,
+        "rain_days": 0.0
+      },
+      {
+        "month": 8,
+        "day_c": 35.0,
+        "night_c": 28.4,
+        "rain_days": 0.0
+      },
+      {
+        "month": 9,
+        "day_c": 33.0,
+        "night_c": 26.4,
+        "rain_days": 0.0
+      },
+      {
+        "month": 10,
+        "day_c": 29.6,
+        "night_c": 23.1,
+        "rain_days": 0.1
+      },
+      {
+        "month": 11,
+        "day_c": 26.2,
+        "night_c": 19.4,
+        "rain_days": 0.1
+      },
+      {
+        "month": 12,
+        "day_c": 22.6,
+        "night_c": 15.5,
+        "rain_days": 0.2
+      }
+    ],
+    "dubai": [
+      {
+        "month": 1,
+        "day_c": 24.0,
+        "night_c": 15.4,
+        "rain_days": 2.2
+      },
+      {
+        "month": 2,
+        "day_c": 25.0,
+        "night_c": 16.3,
+        "rain_days": 2.1
+      },
+      {
+        "month": 3,
+        "day_c": 28.4,
+        "night_c": 18.7,
+        "rain_days": 2.1
+      },
+      {
+        "month": 4,
+        "day_c": 32.6,
+        "night_c": 21.8,
+        "rain_days": 1.0
+      },
+      {
+        "month": 5,
+        "day_c": 36.6,
+        "night_c": 25.2,
+        "rain_days": 0.1
+      },
+      {
+        "month": 6,
+        "day_c": 39.5,
+        "night_c": 28.2,
+        "rain_days": 0.0
+      },
+      {
+        "month": 7,
+        "day_c": 41.0,
+        "night_c": 30.7,
+        "rain_days": 0.3
+      },
+      {
+        "month": 8,
+        "day_c": 41.0,
+        "night_c": 30.3,
+        "rain_days": 0.1
+      },
+      {
+        "month": 9,
+        "day_c": 39.2,
+        "night_c": 28.0,
+        "rain_days": 0.0
+      },
+      {
+        "month": 10,
+        "day_c": 35.2,
+        "night_c": 24.8,
+        "rain_days": 0.5
+      },
+      {
+        "month": 11,
+        "day_c": 30.6,
+        "night_c": 20.9,
+        "rain_days": 1.1
+      },
+      {
+        "month": 12,
+        "day_c": 26.5,
+        "night_c": 17.3,
+        "rain_days": 1.3
+      }
+    ],
+    "sharm": [
+      {
+        "month": 1,
+        "day_c": 22.2,
+        "night_c": 12.8,
+        "rain_days": 0.7
+      },
+      {
+        "month": 2,
+        "day_c": 23.4,
+        "night_c": 13.7,
+        "rain_days": 0.8
+      },
+      {
+        "month": 3,
+        "day_c": 26.9,
+        "night_c": 16.7,
+        "rain_days": 0.7
+      },
+      {
+        "month": 4,
+        "day_c": 31.5,
+        "night_c": 21.1,
+        "rain_days": 0.3
+      },
+      {
+        "month": 5,
+        "day_c": 35.7,
+        "night_c": 24.9,
+        "rain_days": 0.2
+      },
+      {
+        "month": 6,
+        "day_c": 38.8,
+        "night_c": 27.7,
+        "rain_days": 0.0
+      },
+      {
+        "month": 7,
+        "day_c": 39.7,
+        "night_c": 28.8,
+        "rain_days": 0.0
+      },
+      {
+        "month": 8,
+        "day_c": 39.7,
+        "night_c": 29.2,
+        "rain_days": 0.0
+      },
+      {
+        "month": 9,
+        "day_c": 37.6,
+        "night_c": 27.6,
+        "rain_days": 0.0
+      },
+      {
+        "month": 10,
+        "day_c": 33.5,
+        "night_c": 23.9,
+        "rain_days": 0.3
+      },
+      {
+        "month": 11,
+        "day_c": 28.6,
+        "night_c": 19.5,
+        "rain_days": 0.4
+      },
+      {
+        "month": 12,
+        "day_c": 24.3,
+        "night_c": 15.1,
+        "rain_days": 0.4
+      }
+    ],
+    "moscow": [
+      {
+        "month": 1,
+        "day_c": -4.2,
+        "night_c": -9.3,
+        "rain_days": 12.9
+      },
+      {
+        "month": 2,
+        "day_c": -2.9,
+        "night_c": -8.6,
+        "rain_days": 9.1
+      },
+      {
+        "month": 3,
+        "day_c": 2.8,
+        "night_c": -5.5,
+        "rain_days": 9.3
+      },
+      {
+        "month": 4,
+        "day_c": 11.5,
+        "night_c": 1.5,
+        "rain_days": 10.2
+      },
+      {
+        "month": 5,
+        "day_c": 17.6,
+        "night_c": 7.2,
+        "rain_days": 11.1
+      },
+      {
+        "month": 6,
+        "day_c": 22.5,
+        "night_c": 12.3,
+        "rain_days": 11.4
+      },
+      {
+        "month": 7,
+        "day_c": 24.2,
+        "night_c": 15.0,
+        "rain_days": 14.4
+      },
+      {
+        "month": 8,
+        "day_c": 23.3,
+        "night_c": 13.5,
+        "rain_days": 9.1
+      },
+      {
+        "month": 9,
+        "day_c": 17.2,
+        "night_c": 8.7,
+        "rain_days": 8.2
+      },
+      {
+        "month": 10,
+        "day_c": 9.6,
+        "night_c": 3.4,
+        "rain_days": 12.7
+      },
+      {
+        "month": 11,
+        "day_c": 2.2,
+        "night_c": -1.9,
+        "rain_days": 10.9
+      },
+      {
+        "month": 12,
+        "day_c": -2.0,
+        "night_c": -6.3,
+        "rain_days": 13.7
+      }
+    ],
+    "antalya": [
+      {
+        "month": 1,
+        "day_c": 14.3,
+        "night_c": 6.0,
+        "rain_days": 10.6
+      },
+      {
+        "month": 2,
+        "day_c": 15.7,
+        "night_c": 6.3,
+        "rain_days": 8.0
+      },
+      {
+        "month": 3,
+        "day_c": 18.2,
+        "night_c": 8.0,
+        "rain_days": 8.4
+      },
+      {
+        "month": 4,
+        "day_c": 22.3,
+        "night_c": 11.0,
+        "rain_days": 6.5
+      },
+      {
+        "month": 5,
+        "day_c": 26.8,
+        "night_c": 15.3,
+        "rain_days": 7.4
+      },
+      {
+        "month": 6,
+        "day_c": 31.8,
+        "night_c": 19.9,
+        "rain_days": 4.6
+      },
+      {
+        "month": 7,
+        "day_c": 36.5,
+        "night_c": 24.1,
+        "rain_days": 1.8
+      },
+      {
+        "month": 8,
+        "day_c": 35.1,
+        "night_c": 24.1,
+        "rain_days": 2.3
+      },
+      {
+        "month": 9,
+        "day_c": 32.5,
+        "night_c": 20.7,
+        "rain_days": 2.8
+      },
+      {
+        "month": 10,
+        "day_c": 27.3,
+        "night_c": 15.9,
+        "rain_days": 5.3
+      },
+      {
+        "month": 11,
+        "day_c": 21.5,
+        "night_c": 11.3,
+        "rain_days": 8.1
+      },
+      {
+        "month": 12,
+        "day_c": 16.3,
+        "night_c": 7.8,
+        "rain_days": 12.2
+      }
+    ],
+    "minvody": [
+      {
+        "month": 1,
+        "day_c": 3.0,
+        "night_c": -3.9,
+        "rain_days": 7.9
+      },
+      {
+        "month": 2,
+        "day_c": 5.0,
+        "night_c": -3.6,
+        "rain_days": 8.1
+      },
+      {
+        "month": 3,
+        "day_c": 9.9,
+        "night_c": 0.9,
+        "rain_days": 11.1
+      },
+      {
+        "month": 4,
+        "day_c": 17.3,
+        "night_c": 6.0,
+        "rain_days": 9.6
+      },
+      {
+        "month": 5,
+        "day_c": 21.4,
+        "night_c": 10.9,
+        "rain_days": 13.2
+      },
+      {
+        "month": 6,
+        "day_c": 27.4,
+        "night_c": 16.1,
+        "rain_days": 10.9
+      },
+      {
+        "month": 7,
+        "day_c": 30.4,
+        "night_c": 18.8,
+        "rain_days": 7.8
+      },
+      {
+        "month": 8,
+        "day_c": 30.5,
+        "night_c": 18.7,
+        "rain_days": 5.1
+      },
+      {
+        "month": 9,
+        "day_c": 23.7,
+        "night_c": 13.4,
+        "rain_days": 7.2
+      },
+      {
+        "month": 10,
+        "day_c": 16.6,
+        "night_c": 7.5,
+        "rain_days": 9.7
+      },
+      {
+        "month": 11,
+        "day_c": 9.2,
+        "night_c": 1.9,
+        "rain_days": 6.7
+      },
+      {
+        "month": 12,
+        "day_c": 3.9,
+        "night_c": -2.2,
+        "rain_days": 9.3
+      }
+    ],
+    "irkutsk": [
+      {
+        "month": 1,
+        "day_c": -14.7,
+        "night_c": -23.3,
+        "rain_days": 3.9
+      },
+      {
+        "month": 2,
+        "day_c": -10.5,
+        "night_c": -21.0,
+        "rain_days": 2.5
+      },
+      {
+        "month": 3,
+        "day_c": 0.8,
+        "night_c": -11.2,
+        "rain_days": 4.5
+      },
+      {
+        "month": 4,
+        "day_c": 10.3,
+        "night_c": -2.7,
+        "rain_days": 6.1
+      },
+      {
+        "month": 5,
+        "day_c": 17.2,
+        "night_c": 3.5,
+        "rain_days": 8.6
+      },
+      {
+        "month": 6,
+        "day_c": 23.5,
+        "night_c": 10.6,
+        "rain_days": 10.0
+      },
+      {
+        "month": 7,
+        "day_c": 24.9,
+        "night_c": 13.9,
+        "rain_days": 12.3
+      },
+      {
+        "month": 8,
+        "day_c": 22.4,
+        "night_c": 12.7,
+        "rain_days": 12.4
+      },
+      {
+        "month": 9,
+        "day_c": 15.8,
+        "night_c": 6.5,
+        "rain_days": 10.0
+      },
+      {
+        "month": 10,
+        "day_c": 6.8,
+        "night_c": -2.1,
+        "rain_days": 5.5
+      },
+      {
+        "month": 11,
+        "day_c": -3.0,
+        "night_c": -11.2,
+        "rain_days": 4.1
+      },
+      {
+        "month": 12,
+        "day_c": -12.6,
+        "night_c": -21.0,
+        "rain_days": 5.3
+      }
+    ],
+    "gorno": [
+      {
+        "month": 1,
+        "day_c": -7.6,
+        "night_c": -18.1,
+        "rain_days": 8.6
+      },
+      {
+        "month": 2,
+        "day_c": -4.5,
+        "night_c": -16.3,
+        "rain_days": 5.9
+      },
+      {
+        "month": 3,
+        "day_c": 2.1,
+        "night_c": -9.2,
+        "rain_days": 9.3
+      },
+      {
+        "month": 4,
+        "day_c": 11.9,
+        "night_c": -1.0,
+        "rain_days": 12.3
+      },
+      {
+        "month": 5,
+        "day_c": 18.2,
+        "night_c": 5.4,
+        "rain_days": 12.5
+      },
+      {
+        "month": 6,
+        "day_c": 23.6,
+        "night_c": 11.8,
+        "rain_days": 12.6
+      },
+      {
+        "month": 7,
+        "day_c": 24.6,
+        "night_c": 13.9,
+        "rain_days": 15.0
+      },
+      {
+        "month": 8,
+        "day_c": 22.9,
+        "night_c": 12.3,
+        "rain_days": 12.8
+      },
+      {
+        "month": 9,
+        "day_c": 16.9,
+        "night_c": 6.7,
+        "rain_days": 12.5
+      },
+      {
+        "month": 10,
+        "day_c": 8.9,
+        "night_c": -0.7,
+        "rain_days": 11.3
+      },
+      {
+        "month": 11,
+        "day_c": -0.3,
+        "night_c": -9.4,
+        "rain_days": 11.9
+      },
+      {
+        "month": 12,
+        "day_c": -6.4,
+        "night_c": -16.0,
+        "rain_days": 9.9
+      }
+    ],
+    "phuket": [
+      {
+        "month": 1,
+        "day_c": 29.9,
+        "night_c": 24.5,
+        "rain_days": 10.9
+      },
+      {
+        "month": 2,
+        "day_c": 31.5,
+        "night_c": 24.8,
+        "rain_days": 6.8
+      },
+      {
+        "month": 3,
+        "day_c": 32.4,
+        "night_c": 25.5,
+        "rain_days": 10.7
+      },
+      {
+        "month": 4,
+        "day_c": 31.7,
+        "night_c": 25.7,
+        "rain_days": 18.6
+      },
+      {
+        "month": 5,
+        "day_c": 30.5,
+        "night_c": 25.7,
+        "rain_days": 26.6
+      },
+      {
+        "month": 6,
+        "day_c": 29.8,
+        "night_c": 25.5,
+        "rain_days": 21.6
+      },
+      {
+        "month": 7,
+        "day_c": 29.6,
+        "night_c": 25.4,
+        "rain_days": 21.4
+      },
+      {
+        "month": 8,
+        "day_c": 29.4,
+        "night_c": 25.1,
+        "rain_days": 23.1
+      },
+      {
+        "month": 9,
+        "day_c": 28.9,
+        "night_c": 24.7,
+        "rain_days": 24.6
+      },
+      {
+        "month": 10,
+        "day_c": 29.0,
+        "night_c": 24.4,
+        "rain_days": 28.2
+      },
+      {
+        "month": 11,
+        "day_c": 28.9,
+        "night_c": 24.4,
+        "rain_days": 25.9
+      },
+      {
+        "month": 12,
+        "day_c": 29.2,
+        "night_c": 24.4,
+        "rain_days": 16.8
+      }
+    ],
+    "nhatrang": [
+      {
+        "month": 1,
+        "day_c": 26.4,
+        "night_c": 21.7,
+        "rain_days": 13.1
+      },
+      {
+        "month": 2,
+        "day_c": 27.0,
+        "night_c": 21.6,
+        "rain_days": 9.6
+      },
+      {
+        "month": 3,
+        "day_c": 28.9,
+        "night_c": 22.8,
+        "rain_days": 9.1
+      },
+      {
+        "month": 4,
+        "day_c": 30.7,
+        "night_c": 24.5,
+        "rain_days": 8.8
+      },
+      {
+        "month": 5,
+        "day_c": 31.9,
+        "night_c": 26.0,
+        "rain_days": 14.9
+      },
+      {
+        "month": 6,
+        "day_c": 32.9,
+        "night_c": 26.4,
+        "rain_days": 11.1
+      },
+      {
+        "month": 7,
+        "day_c": 32.5,
+        "night_c": 26.1,
+        "rain_days": 15.4
+      },
+      {
+        "month": 8,
+        "day_c": 32.7,
+        "night_c": 26.0,
+        "rain_days": 14.6
+      },
+      {
+        "month": 9,
+        "day_c": 31.1,
+        "night_c": 25.2,
+        "rain_days": 20.7
+      },
+      {
+        "month": 10,
+        "day_c": 29.2,
+        "night_c": 24.3,
+        "rain_days": 25.8
+      },
+      {
+        "month": 11,
+        "day_c": 27.8,
+        "night_c": 23.5,
+        "rain_days": 22.7
+      },
+      {
+        "month": 12,
+        "day_c": 26.5,
+        "night_c": 22.5,
+        "rain_days": 18.9
+      }
+    ],
+    "tbilisi": [
+      {
+        "month": 1,
+        "day_c": 7.3,
+        "night_c": -1.3,
+        "rain_days": 4.6
+      },
+      {
+        "month": 2,
+        "day_c": 9.0,
+        "night_c": -0.1,
+        "rain_days": 4.5
+      },
+      {
+        "month": 3,
+        "day_c": 13.0,
+        "night_c": 3.2,
+        "rain_days": 10.3
+      },
+      {
+        "month": 4,
+        "day_c": 18.5,
+        "night_c": 7.7,
+        "rain_days": 10.5
+      },
+      {
+        "month": 5,
+        "day_c": 22.9,
+        "night_c": 12.4,
+        "rain_days": 14.1
+      },
+      {
+        "month": 6,
+        "day_c": 28.8,
+        "night_c": 17.6,
+        "rain_days": 9.8
+      },
+      {
+        "month": 7,
+        "day_c": 31.2,
+        "night_c": 20.2,
+        "rain_days": 7.1
+      },
+      {
+        "month": 8,
+        "day_c": 31.8,
+        "night_c": 20.6,
+        "rain_days": 4.5
+      },
+      {
+        "month": 9,
+        "day_c": 25.6,
+        "night_c": 15.9,
+        "rain_days": 8.5
+      },
+      {
+        "month": 10,
+        "day_c": 19.0,
+        "night_c": 10.1,
+        "rain_days": 8.2
+      },
+      {
+        "month": 11,
+        "day_c": 13.1,
+        "night_c": 4.5,
+        "rain_days": 5.7
+      },
+      {
+        "month": 12,
+        "day_c": 8.1,
+        "night_c": 0.5,
+        "rain_days": 6.2
+      }
+    ],
+    "batumi": [
+      {
+        "month": 1,
+        "day_c": 10.9,
+        "night_c": 2.7,
+        "rain_days": 14.7
+      },
+      {
+        "month": 2,
+        "day_c": 11.4,
+        "night_c": 3.0,
+        "rain_days": 13.7
+      },
+      {
+        "month": 3,
+        "day_c": 14.2,
+        "night_c": 5.4,
+        "rain_days": 16.0
+      },
+      {
+        "month": 4,
+        "day_c": 18.2,
+        "night_c": 8.8,
+        "rain_days": 11.4
+      },
+      {
+        "month": 5,
+        "day_c": 21.1,
+        "night_c": 13.0,
+        "rain_days": 14.3
+      },
+      {
+        "month": 6,
+        "day_c": 24.3,
+        "night_c": 18.0,
+        "rain_days": 15.8
+      },
+      {
+        "month": 7,
+        "day_c": 25.7,
+        "night_c": 20.5,
+        "rain_days": 19.2
+      },
+      {
+        "month": 8,
+        "day_c": 26.5,
+        "night_c": 21.5,
+        "rain_days": 16.9
+      },
+      {
+        "month": 9,
+        "day_c": 24.2,
+        "night_c": 18.1,
+        "rain_days": 16.0
+      },
+      {
+        "month": 10,
+        "day_c": 20.9,
+        "night_c": 13.5,
+        "rain_days": 13.4
+      },
+      {
+        "month": 11,
+        "day_c": 17.5,
+        "night_c": 8.8,
+        "rain_days": 11.4
+      },
+      {
+        "month": 12,
+        "day_c": 13.4,
+        "night_c": 5.1,
+        "rain_days": 13.3
+      }
+    ],
+    "yerevan": [
+      {
+        "month": 1,
+        "day_c": 3.5,
+        "night_c": -4.5,
+        "rain_days": 6.2
+      },
+      {
+        "month": 2,
+        "day_c": 6.4,
+        "night_c": -2.5,
+        "rain_days": 5.4
+      },
+      {
+        "month": 3,
+        "day_c": 12.7,
+        "night_c": 2.4,
+        "rain_days": 10.9
+      },
+      {
+        "month": 4,
+        "day_c": 18.6,
+        "night_c": 7.3,
+        "rain_days": 11.3
+      },
+      {
+        "month": 5,
+        "day_c": 23.2,
+        "night_c": 11.8,
+        "rain_days": 12.5
+      },
+      {
+        "month": 6,
+        "day_c": 30.0,
+        "night_c": 17.3,
+        "rain_days": 4.7
+      },
+      {
+        "month": 7,
+        "day_c": 33.6,
+        "night_c": 20.6,
+        "rain_days": 3.3
+      },
+      {
+        "month": 8,
+        "day_c": 34.1,
+        "night_c": 21.0,
+        "rain_days": 1.3
+      },
+      {
+        "month": 9,
+        "day_c": 28.3,
+        "night_c": 16.2,
+        "rain_days": 3.2
+      },
+      {
+        "month": 10,
+        "day_c": 20.2,
+        "night_c": 9.7,
+        "rain_days": 6.0
+      },
+      {
+        "month": 11,
+        "day_c": 12.2,
+        "night_c": 3.0,
+        "rain_days": 4.9
+      },
+      {
+        "month": 12,
+        "day_c": 6.0,
+        "night_c": -1.8,
+        "rain_days": 6.7
+      }
+    ],
+    "maldives": [
+      {
+        "month": 1,
+        "day_c": 27.8,
+        "night_c": 26.4,
+        "rain_days": 12.4
+      },
+      {
+        "month": 2,
+        "day_c": 28.2,
+        "night_c": 26.8,
+        "rain_days": 7.7
+      },
+      {
+        "month": 3,
+        "day_c": 28.7,
+        "night_c": 27.1,
+        "rain_days": 11.4
+      },
+      {
+        "month": 4,
+        "day_c": 29.2,
+        "night_c": 27.3,
+        "rain_days": 17.4
+      },
+      {
+        "month": 5,
+        "day_c": 29.2,
+        "night_c": 27.0,
+        "rain_days": 24.0
+      },
+      {
+        "month": 6,
+        "day_c": 28.9,
+        "night_c": 27.2,
+        "rain_days": 15.0
+      },
+      {
+        "month": 7,
+        "day_c": 28.7,
+        "night_c": 26.8,
+        "rain_days": 17.7
+      },
+      {
+        "month": 8,
+        "day_c": 28.5,
+        "night_c": 26.8,
+        "rain_days": 16.3
+      },
+      {
+        "month": 9,
+        "day_c": 28.3,
+        "night_c": 26.4,
+        "rain_days": 18.2
+      },
+      {
+        "month": 10,
+        "day_c": 28.3,
+        "night_c": 26.4,
+        "rain_days": 20.4
+      },
+      {
+        "month": 11,
+        "day_c": 28.0,
+        "night_c": 26.2,
+        "rain_days": 20.1
+      },
+      {
+        "month": 12,
+        "day_c": 28.1,
+        "night_c": 26.3,
+        "rain_days": 18.9
+      }
+    ],
+    "novosibirsk": [
+      {
+        "month": 1,
+        "day_c": -11.9,
+        "night_c": -18.7,
+        "rain_days": 10.4
+      },
+      {
+        "month": 2,
+        "day_c": -9.3,
+        "night_c": -16.3,
+        "rain_days": 7.5
+      },
+      {
+        "month": 3,
+        "day_c": -1.6,
+        "night_c": -8.7,
+        "rain_days": 8.9
+      },
+      {
+        "month": 4,
+        "day_c": 9.4,
+        "night_c": -1.5,
+        "rain_days": 9.0
+      },
+      {
+        "month": 5,
+        "day_c": 17.0,
+        "night_c": 5.6,
+        "rain_days": 10.2
+      },
+      {
+        "month": 6,
+        "day_c": 23.3,
+        "night_c": 12.8,
+        "rain_days": 10.9
+      },
+      {
+        "month": 7,
+        "day_c": 24.3,
+        "night_c": 15.1,
+        "rain_days": 12.6
+      },
+      {
+        "month": 8,
+        "day_c": 22.2,
+        "night_c": 13.0,
+        "rain_days": 11.4
+      },
+      {
+        "month": 9,
+        "day_c": 15.4,
+        "night_c": 6.9,
+        "rain_days": 10.1
+      },
+      {
+        "month": 10,
+        "day_c": 6.2,
+        "night_c": -0.8,
+        "rain_days": 10.3
+      },
+      {
+        "month": 11,
+        "day_c": -4.1,
+        "night_c": -10.3,
+        "rain_days": 13.3
+      },
+      {
+        "month": 12,
+        "day_c": -10.1,
+        "night_c": -16.8,
+        "rain_days": 12.8
+      }
+    ],
+    "el_gouna": [
+      {
+        "month": 1,
+        "day_c": 21.2,
+        "night_c": 12.3,
+        "rain_days": 0.4
+      },
+      {
+        "month": 2,
+        "day_c": 22.1,
+        "night_c": 13.1,
+        "rain_days": 0.6
+      },
+      {
+        "month": 3,
+        "day_c": 25.1,
+        "night_c": 15.7,
+        "rain_days": 0.4
+      },
+      {
+        "month": 4,
+        "day_c": 28.7,
+        "night_c": 19.5,
+        "rain_days": 0.1
+      },
+      {
+        "month": 5,
+        "day_c": 32.3,
+        "night_c": 23.3,
+        "rain_days": 0.1
+      },
+      {
+        "month": 6,
+        "day_c": 35.4,
+        "night_c": 26.5,
+        "rain_days": 0.0
+      },
+      {
+        "month": 7,
+        "day_c": 36.3,
+        "night_c": 28.2,
+        "rain_days": 0.0
+      },
+      {
+        "month": 8,
+        "day_c": 36.6,
+        "night_c": 28.4,
+        "rain_days": 0.0
+      },
+      {
+        "month": 9,
+        "day_c": 34.7,
+        "night_c": 26.3,
+        "rain_days": 0.0
+      },
+      {
+        "month": 10,
+        "day_c": 30.8,
+        "night_c": 22.7,
+        "rain_days": 0.1
+      },
+      {
+        "month": 11,
+        "day_c": 27.0,
+        "night_c": 18.6,
+        "rain_days": 0.1
+      },
+      {
+        "month": 12,
+        "day_c": 23.2,
+        "night_c": 14.4,
+        "rain_days": 0.2
+      }
+    ],
+    "marsa_alam": [
+      {
+        "month": 1,
+        "day_c": 22.4,
+        "night_c": 15.0,
+        "rain_days": 0.1
+      },
+      {
+        "month": 2,
+        "day_c": 23.1,
+        "night_c": 15.6,
+        "rain_days": 0.0
+      },
+      {
+        "month": 3,
+        "day_c": 25.7,
+        "night_c": 18.1,
+        "rain_days": 0.1
+      },
+      {
+        "month": 4,
+        "day_c": 28.8,
+        "night_c": 21.4,
+        "rain_days": 0.1
+      },
+      {
+        "month": 5,
+        "day_c": 32.0,
+        "night_c": 25.0,
+        "rain_days": 0.1
+      },
+      {
+        "month": 6,
+        "day_c": 34.7,
+        "night_c": 28.1,
+        "rain_days": 0.0
+      },
+      {
+        "month": 7,
+        "day_c": 36.0,
+        "night_c": 29.0,
+        "rain_days": 0.0
+      },
+      {
+        "month": 8,
+        "day_c": 36.2,
+        "night_c": 29.6,
+        "rain_days": 0.0
+      },
+      {
+        "month": 9,
+        "day_c": 34.3,
+        "night_c": 28.1,
+        "rain_days": 0.0
+      },
+      {
+        "month": 10,
+        "day_c": 31.1,
+        "night_c": 24.6,
+        "rain_days": 0.1
+      },
+      {
+        "month": 11,
+        "day_c": 27.6,
+        "night_c": 20.7,
+        "rain_days": 0.7
+      },
+      {
+        "month": 12,
+        "day_c": 24.3,
+        "night_c": 17.1,
+        "rain_days": 0.3
+      }
+    ],
+    "ras_al_khaimah": [
+      {
+        "month": 1,
+        "day_c": 23.2,
+        "night_c": 15.6,
+        "rain_days": 3.2
+      },
+      {
+        "month": 2,
+        "day_c": 24.4,
+        "night_c": 16.8,
+        "rain_days": 2.3
+      },
+      {
+        "month": 3,
+        "day_c": 27.7,
+        "night_c": 19.4,
+        "rain_days": 2.1
+      },
+      {
+        "month": 4,
+        "day_c": 32.0,
+        "night_c": 23.3,
+        "rain_days": 1.0
+      },
+      {
+        "month": 5,
+        "day_c": 36.4,
+        "night_c": 27.2,
+        "rain_days": 0.1
+      },
+      {
+        "month": 6,
+        "day_c": 38.8,
+        "night_c": 29.8,
+        "rain_days": 0.0
+      },
+      {
+        "month": 7,
+        "day_c": 39.3,
+        "night_c": 31.3,
+        "rain_days": 0.4
+      },
+      {
+        "month": 8,
+        "day_c": 39.0,
+        "night_c": 31.2,
+        "rain_days": 0.0
+      },
+      {
+        "month": 9,
+        "day_c": 37.2,
+        "night_c": 28.9,
+        "rain_days": 0.0
+      },
+      {
+        "month": 10,
+        "day_c": 34.0,
+        "night_c": 26.0,
+        "rain_days": 0.6
+      },
+      {
+        "month": 11,
+        "day_c": 29.4,
+        "night_c": 21.4,
+        "rain_days": 1.5
+      },
+      {
+        "month": 12,
+        "day_c": 25.4,
+        "night_c": 17.7,
+        "rain_days": 2.3
+      }
+    ]
+  },
+  "additional_retrieved_at": "2026-10-27T14:56:49.928953+00:00",
+  "priority_retrieved_at": "2026-10-27T15:15:20.098606+00:00"
+}

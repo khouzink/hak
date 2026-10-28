@@ -1,0 +1,463 @@
+{
+  "region": "Большой Сочи и Сириус",
+  "retrieved_at": "2026-10-26T01:04:13.939363+00:00",
+  "osm_timestamp": null,
+  "endpoint": "https://www.openstreetmap.org/api/0.6/map",
+  "query": [
+    "39.720,43.572,39.728,43.582",
+    "39.716,43.613,39.728,43.625",
+    "39.943,43.402,39.957,43.413",
+    "39.973,43.402,39.984,43.413"
+  ],
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0; elevation: Copernicus DEM GLO-90 / Open-Meteo",
+  "elevation_status": "available",
+  "hotels": [
+    {
+      "id": "node/10967527654",
+      "name": "Антика",
+      "latitude": 43.6151666,
+      "longitude": 39.7195995,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:housenumber": "134/1",
+        "addr:street": "Виноградная улица",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Антика",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/10967527654",
+      "elevation_m": 95.0
+    },
+    {
+      "id": "node/12032893438",
+      "name": "Portofino",
+      "latitude": 43.5760733,
+      "longitude": 39.7236067,
+      "tags": {
+        "contact:email": "88001012575@mail.ru",
+        "contact:phone": "+7 800 1012575;+7 862 5551202;+7 918 6090986",
+        "contact:website": "https://hotelportofino.ru",
+        "name": "Portofino",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/12032893438",
+      "elevation_m": 22.0
+    },
+    {
+      "id": "node/12043534507",
+      "name": "Белладжио",
+      "latitude": 43.6214123,
+      "longitude": 39.7191495,
+      "tags": {
+        "contact:phone": "+7 964 9420505",
+        "contact:website": "https://bellagio-hotel.ru/",
+        "name": "Белладжио",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/12043534507",
+      "elevation_m": 96.0
+    },
+    {
+      "id": "node/12183637632",
+      "name": "Atmosfera hotel&SPA",
+      "latitude": 43.6137393,
+      "longitude": 39.7198569,
+      "tags": {
+        "contact:email": "atm.hotel@mail.ru",
+        "contact:phone": "+7 988 1803090",
+        "contact:website": "https://www.atmosferahotel.ru",
+        "name": "Atmosfera hotel&SPA",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/12183637632",
+      "elevation_m": 104.0
+    },
+    {
+      "id": "node/12560021804",
+      "name": "Апельсин",
+      "latitude": 43.4127604,
+      "longitude": 39.9553145,
+      "tags": {
+        "name": "Апельсин",
+        "name:ru": "Апельсин",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/12560021804",
+      "elevation_m": 0.0
+    },
+    {
+      "id": "node/1323204199",
+      "name": "МИРИТ",
+      "latitude": 43.5808926,
+      "longitude": 39.7227223,
+      "tags": {
+        "addr:city": "Сочи",
+        "internet_access": "wlan",
+        "name": "МИРИТ",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/1323204199",
+      "elevation_m": 12.0
+    },
+    {
+      "id": "node/2181712522",
+      "name": "Мини-отель \"Маяк\"",
+      "latitude": 43.5772504,
+      "longitude": 39.7223214,
+      "tags": {
+        "name": "Мини-отель \"Маяк\"",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/2181712522",
+      "elevation_m": 7.0
+    },
+    {
+      "id": "node/3730652025",
+      "name": "Грант",
+      "latitude": 43.4117574,
+      "longitude": 39.956132,
+      "tags": {
+        "name": "Грант",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/3730652025",
+      "elevation_m": 1.0
+    },
+    {
+      "id": "node/4985022111",
+      "name": "У Оксаны",
+      "latitude": 43.5800081,
+      "longitude": 39.7275415,
+      "tags": {
+        "name": "У Оксаны",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/4985022111",
+      "elevation_m": 60.0
+    },
+    {
+      "id": "node/4986725623",
+      "name": "Апартаменты в Маяке",
+      "latitude": 43.576032,
+      "longitude": 39.7242648,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Апартаменты в Маяке",
+        "opening_hours": "24/7",
+        "operator": "15 3х комнатных апартаментов к вашим услугам",
+        "phone": "+7 918 4304543",
+        "tourism": "hotel",
+        "website": "https://grasgroup.business.site/"
+      },
+      "source_url": "https://www.openstreetmap.org/node/4986725623",
+      "elevation_m": 29.0
+    },
+    {
+      "id": "node/5743464666",
+      "name": "Имеретинский - Морской и Заповедный квартал",
+      "latitude": 43.4069197,
+      "longitude": 39.942937,
+      "tags": {
+        "entrance": "main",
+        "name": "Имеретинский - Морской и Заповедный квартал",
+        "smoking": "no",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/5743464666",
+      "elevation_m": 5.0
+    },
+    {
+      "id": "node/736761646",
+      "name": "City Park Hotel",
+      "latitude": 43.5761102,
+      "longitude": 39.7258462,
+      "tags": {
+        "name": "City Park Hotel",
+        "old_name": "Маринс Парк Отель",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "www.cph-sochi.com"
+      },
+      "source_url": "https://www.openstreetmap.org/node/736761646",
+      "elevation_m": 31.0
+    },
+    {
+      "id": "node/8872412718",
+      "name": "СПА-отель \"Грейс Горизонт\"",
+      "latitude": 43.5764415,
+      "longitude": 39.723641,
+      "tags": {
+        "addr:postcode": "354000",
+        "email": "zakaz@grace-gorizont.ru",
+        "internet_access": "wlan",
+        "name": "СПА-отель \"Грейс Горизонт\"",
+        "name:en": "SPA-hotel \"Grace Gorizont\"",
+        "opening_hours": "24/7",
+        "phone": "+7 800 3025792",
+        "tourism": "hotel",
+        "website": "https://grace-gorizont.ru/"
+      },
+      "source_url": "https://www.openstreetmap.org/node/8872412718",
+      "elevation_m": 22.0
+    },
+    {
+      "id": "node/9875280518",
+      "name": "Магеллан Панорама",
+      "latitude": 43.5816918,
+      "longitude": 39.7277483,
+      "tags": {
+        "name": "Магеллан Панорама",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/node/9875280518",
+      "elevation_m": 83.0
+    },
+    {
+      "id": "way/1078567033",
+      "name": "Grand Cascade Spa",
+      "latitude": 43.58013763076924,
+      "longitude": 39.72306052692308,
+      "tags": {
+        "name": "Grand Cascade Spa",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/way/1078567033",
+      "elevation_m": 18.0
+    },
+    {
+      "id": "way/201474330",
+      "name": "Brevis apartments",
+      "latitude": 43.57675462941177,
+      "longitude": 39.72437438823529,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:country": "RU",
+        "addr:housenumber": "11/1",
+        "addr:street": "улица Орджоникидзе",
+        "building": "hotel",
+        "building:levels": "16",
+        "description": "Апарт-отель Бревис/Brevis apartments - сервисные апартаменты для краткосрочного и длительного размещения, уровень гостиничного сервиса 3*",
+        "email": "RE@brevis-apartments.ru",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Brevis apartments",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+7 862 2629711",
+        "rooms": "124",
+        "smoking": "no",
+        "stars": "3",
+        "start_date": "2013",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/way/201474330",
+      "elevation_m": 33.0
+    },
+    {
+      "id": "way/201474331",
+      "name": "Mercure Sochi Centre",
+      "latitude": 43.57768273333333,
+      "longitude": 39.724371338888886,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:country": "RU",
+        "addr:housenumber": "11А к1",
+        "addr:postcode": "354000",
+        "addr:street": "улица Орджоникидзе",
+        "brand": "Mercure",
+        "brand:wikidata": "Q1709809",
+        "building": "hotel",
+        "building:levels": "16",
+        "internet_access": "wlan",
+        "name": "Mercure Sochi Centre",
+        "operator": "Mercure",
+        "stars": "4",
+        "start_date": "2013",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "source_url": "https://www.openstreetmap.org/way/201474331",
+      "elevation_m": 30.0
+    },
+    {
+      "id": "way/201474333",
+      "name": "Pullman Sochi Centre",
+      "latitude": 43.57722305555555,
+      "longitude": 39.72374925555555,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:country": "RU",
+        "addr:housenumber": "11А к2",
+        "addr:street": "улица Орджоникидзе",
+        "brand": "Pullman",
+        "brand:wikidata": "Q3410757",
+        "building": "hotel",
+        "building:levels": "16",
+        "name": "Pullman Sochi Centre",
+        "start_date": "2013",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/way/201474333",
+      "elevation_m": 30.0
+    },
+    {
+      "id": "way/207579132",
+      "name": "Omega Sirius",
+      "latitude": 43.41162236842106,
+      "longitude": 39.9505892131579,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Олимпийский проспект",
+        "building": "yes",
+        "building:levels": "8",
+        "email": "hotel@siriushotels.ru",
+        "internet_access": "wlan",
+        "mobile": "+7 862 2627272",
+        "name": "Omega Sirius",
+        "name:en": "Omega Sirius",
+        "note": "Дата открытия отеля – ноябрь 2013",
+        "phone": "+7 800 3504400",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://siriushotels.ru/omega",
+        "wheelchair": "yes"
+      },
+      "source_url": "https://www.openstreetmap.org/way/207579132",
+      "elevation_m": 3.0
+    },
+    {
+      "id": "way/209174480",
+      "name": "Мирный",
+      "latitude": 43.41119035,
+      "longitude": 39.954819725,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "354340",
+        "addr:street": "Камышовая улица",
+        "building": "yes",
+        "name": "Мирный",
+        "phone": "+7 918 1056195",
+        "tourism": "hotel",
+        "website": "http://aparthotelmirny.ru/"
+      },
+      "source_url": "https://www.openstreetmap.org/way/209174480",
+      "elevation_m": 1.0
+    },
+    {
+      "id": "way/209174486",
+      "name": "Парус",
+      "latitude": 43.41126134444445,
+      "longitude": 39.95407845555556,
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:street": "Староохотничья улица",
+        "building": "yes",
+        "name": "Парус",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/way/209174486",
+      "elevation_m": 1.0
+    },
+    {
+      "id": "way/260646973",
+      "name": "Антика",
+      "latitude": 43.615155458333334,
+      "longitude": 39.71963626666667,
+      "tags": {
+        "addr:housenumber": "134/1",
+        "addr:street": "Виноградная улица",
+        "building": "yes",
+        "name": "Антика",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/way/260646973",
+      "elevation_m": 95.0
+    },
+    {
+      "id": "way/277803906",
+      "name": "Сочи Парк Отель",
+      "latitude": 43.40352423492063,
+      "longitude": 39.973997674603176,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:housenumber": "6",
+        "addr:street": "Континентальный проспект",
+        "barrier": "fence",
+        "email": "info@sochipark-hotel.ru",
+        "landuse": "residential",
+        "leisure": "resort",
+        "name": "Сочи Парк Отель",
+        "name:en": "Sochi Park Hotel",
+        "name:tr": "Soçi Park Otel",
+        "old_name": "Azimut Hotel Sochi 3*",
+        "phone": "+7 906 1574911;+7 967 4423911",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://sochipark-hotel.ru"
+      },
+      "source_url": "https://www.openstreetmap.org/way/277803906",
+      "elevation_m": 2.0
+    },
+    {
+      "id": "way/368413847",
+      "name": "Sigma Sirius Park",
+      "latitude": 43.40274520869565,
+      "longitude": 39.98463658695652,
+      "tags": {
+        "barrier": "fence",
+        "name": "Sigma Sirius Park",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/way/368413847",
+      "elevation_m": 3.0
+    },
+    {
+      "id": "way/51416856",
+      "name": "Баунти-клуб",
+      "latitude": 43.57664408,
+      "longitude": 39.72513414,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:country": "RU",
+        "addr:housenumber": "4Б",
+        "addr:postcode": "354000",
+        "addr:street": "Приморская улица",
+        "building": "yes",
+        "building:levels": "6",
+        "name": "Баунти-клуб",
+        "operator": "Араджян",
+        "tourism": "hotel"
+      },
+      "source_url": "https://www.openstreetmap.org/way/51416856",
+      "elevation_m": 29.0
+    },
+    {
+      "id": "way/51764141",
+      "name": "Azimut Парк Отель Виноградная",
+      "latitude": 43.613006275000004,
+      "longitude": 39.718128916666664,
+      "tags": {
+        "addr:city": "Сочи",
+        "addr:housenumber": "101/1",
+        "addr:street": "Виноградная улица",
+        "brand": "Azimut",
+        "brand:wikidata": "Q4033119",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Azimut Парк Отель Виноградная",
+        "old_name:en": "Neva International Pension",
+        "phone": "+7 (862) 555-14-61",
+        "tourism": "hotel",
+        "website": "https://azimuthotels.com/ru/sochi/azimut-hotel-vinogradnaya-sochi"
+      },
+      "source_url": "https://www.openstreetmap.org/way/51764141",
+      "elevation_m": 85.0
+    }
+  ]
+}
